@@ -1,3 +1,5 @@
+## Repository forked from: [MhageGH/esp32_SoundRecorder](https://github.com/MhageGH/esp32_SoundRecorder)
+
 # esp32_SoundRecorder
 ![board](doc/DSC_0074.JPG)
 
