@@ -10,9 +10,6 @@
 ## Wiring microphone with I2S interface
 ![wiring1](doc/wiring.png)
 
-Note: if you want to change the Esp32 VP pin to another, use [this image](https://lastminuteengineers.com/wp-content/uploads/arduino/ESP32-Development-Board-Pinout.png) and change 
-i used information from [this example](https://github.com/espressif/esp-idf/blob/master/examples/peripherals/i2s_adc_dac/main/app_main.c)
-
 ## Development Environment
 - [PlatformIO](https://platformio.org/)
 - [arduino-esp32](https://github.com/espressif/arduino-esp32)
