@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#561139",
+        "titleBar.activeBackground": "#79184F",
+        "titleBar.activeForeground": "#FEFCFD"
+    },
+    "idf.portWin": "COM4"
+}
