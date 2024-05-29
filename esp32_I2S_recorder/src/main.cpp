@@ -4,7 +4,6 @@
 #include "I2S.h"
 #include <SD.h>
 
-#define I2S_MODE I2S_MODE_RX
 #define sck 25
 #define miso 33
 #define mosi 26
@@ -57,7 +56,7 @@ void setup()
     Serial.print(".");
     delay(500);
   }
-  I2S_Init(I2S_MODE, I2S_BITS_PER_SAMPLE_16BIT);
+  I2S_Init();
 }
 
 void loop()
